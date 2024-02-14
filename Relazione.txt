@@ -1,0 +1,10 @@
+Il dataset sembra mostrare le vendite di mezzi (auto e moto) di diversi venditori, ognuno dei quali ha effettuato vendite in diverse parti d'Italia.
+
+La colonna "COD PROD" è l'unica che in questo dataset può fungere da chiave primaria, essendo l'unica che non sembra avere valori ripetuti.
+Ci sono 5 colonne testuali (COD PROD, Collaboratore, Regione, Categoria, Prodotto).
+1 colonna in formato Data (inizialmente senza nome).
+1 colonna con numeri interi (Quantità).
+1 colonna con numeri decimali (Prezzo unitario).
+
+Solo la colonna Quantità aveva dei valori mancanti.
+Osservando la qualità delle colonne, una volta pulite, nessuna presentava errori o valori mancanti.
